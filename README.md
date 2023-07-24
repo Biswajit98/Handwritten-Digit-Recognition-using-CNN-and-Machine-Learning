@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition-
+# Handwritten Digit Recognition using Machine Learning and CNN
 
 In this project I have tried to build a machine learning model which can predict a handwritten digit (0-9).
 To build the model I have used some python libraries like tensorflow, keras, numpy, matplotlib.
